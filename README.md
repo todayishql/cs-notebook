@@ -1,4 +1,17 @@
-# Core Computer Science
+# Math
+- [ ] Calculus
+- [ ] Algebra
+- [ ] Probs & Stats
+- [ ] Discrete Mathematics
+      
+# IT Core
+- [ ] Object-oriented Programming
+- [ ] Data Structures and Algorithms
+- [ ] Databases
+
+---
+
+# Computer Science Core
 - [ ] Introduction to Mobile Application Development
 - [ ] Computer Vision - Information Retrieval
 - [ ] Evolutionary Algorithms 
@@ -6,7 +19,7 @@
 - [ ] Deep Learning
 - [ ] Information Systems Security 
 
-# Core Data Science
+# Data Science Core
 - [ ] Data mining 
 - [ ] Decision Support System 
 - [ ] Big Data Analysis and Cloud Computing 
