@@ -1,17 +1,17 @@
-# Math
+# Math (BS)
 - [ ] Calculus
 - [ ] Algebra
 - [ ] Probs & Stats
 - [ ] Discrete Mathematics
       
-# IT Core
+# IT Core (BS)
 - [ ] Object-oriented Programming
 - [ ] Data Structures and Algorithms
 - [ ] Databases
 
 ---
 
-# Computer Science Core
+# Computer Science Core (MS)
 - [ ] Introduction to Mobile Application Development
 - [ ] Computer Vision - Information Retrieval
 - [ ] Evolutionary Algorithms 
@@ -19,7 +19,7 @@
 - [ ] Deep Learning
 - [ ] Information Systems Security 
 
-# Data Science Core
+# Data Science Core (MS)
 - [ ] Data mining 
 - [ ] Decision Support System 
 - [ ] Big Data Analysis and Cloud Computing 
